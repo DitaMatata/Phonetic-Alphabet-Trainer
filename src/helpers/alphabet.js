@@ -2,87 +2,87 @@
 const alphabet = [
     {
         "letter": "a",
-        "code": "alpha"
+        "code": "adam"
     },
     {
         "letter": "b",
-        "code": "bravo"
+        "code": "boy"
     },
     {
         "letter": "c",
-        "code": "charlie"
+        "code": "charles"
     },
     {
         "letter": "d",
-        "code": "delta"
+        "code": "david"
     },
     {
         "letter": "e",
-        "code": "echo"
+        "code": "edward"
     },
     {
         "letter": "f",
-        "code": "foxtrot"
+        "code": "frank"
     },
     {
         "letter": "g",
-        "code": "golf"
+        "code": "george"
     },
     {
         "letter": "h",
-        "code": "hotel"
+        "code": "henry"
     },
     {
         "letter": "i",
-        "code": "india"
+        "code": "ida"
     },
     {
         "letter": "j",
-        "code": "juliet"
+        "code": "john"
     },
     {
         "letter": "k",
-        "code": "kilo"
+        "code": "king"
     },
     {
         "letter": "l",
-        "code": "lima"
+        "code": "lincoln"
     },
     {
         "letter": "m",
-        "code": "mike"
+        "code": "mary"
     },
     {
         "letter": "n",
-        "code": "november"
+        "code": "nora"
     },
     {
         "letter": "o",
-        "code": "oscar"
+        "code": "ocean"
     },
     {
         "letter": "p",
-        "code": "papa"
+        "code": "paul"
     },
     {
         "letter": "q",
-        "code": "quebec"
+        "code": "queen"
     },
     {
         "letter": "r",
-        "code": "romeo"
+        "code": "robert"
     },
     {
         "letter": "s",
-        "code": "sierra"
+        "code": "sam"
     },
     {
         "letter": "t",
-        "code": "tango"
+        "code": "tom"
     },
     {
         "letter": "u",
-        "code": "uniform"
+        "code": "union"
     },
     {
         "letter": "v",
@@ -90,7 +90,7 @@ const alphabet = [
     },
     {
         "letter": "w",
-        "code": "whiskey"
+        "code": "william"
     },
     {
         "letter": "x",
@@ -98,11 +98,11 @@ const alphabet = [
     },
     {
         "letter": "y",
-        "code": "yankee"
+        "code": "young"
     },
     {
         "letter": "z",
-        "code": "zulu"
+        "code": "zebra"
     },
 ]
 
